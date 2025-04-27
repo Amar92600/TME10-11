@@ -1,3 +1,6 @@
+Numéro Etudiant : TOUNSI Malik 21131496
+CHAARA ADAM 21113891
+
 TME 10-11 : Intégration IoT via MQTT et Kafka
 
 Le but de la seconde partie du projet, est de mettre en place un support de communication permettant à un objet connecté (via MQTT) de mettre à jour le stock d’un produit, et que cette info remonte jusqu’à Strapi, grâce à Kafka.
